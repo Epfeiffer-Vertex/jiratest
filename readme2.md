@@ -1,4 +1,4 @@
-This was commited from my workstation at home using Jira smart commits to connect it to Jira
+This readme was commited from my workstation at home using Jira smart commits to connect it to Jira
 
 git commit -m "QA-1 #comment added readme2"
 
